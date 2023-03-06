@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 🙋‍♂️
 My name is Mihail and I'm an app developer.  
 I prefer using Java <img src="https://icons.iconarchive.com/icons/tatice/cristal-intense/256/Java-icon.png" alt="drawing" width="20"/>, 
 but I'm just as good with C#. Well versed in C++ and familiar with Python and JavaScript.  
