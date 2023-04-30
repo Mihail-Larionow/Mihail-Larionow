@@ -1,6 +1,6 @@
 ### Hi there 🙋‍♂️
 My name is Mihail and I'm an app developer.  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=0993F7&vCenter=true&width=435&height=24&lines=Desktop+%26+Android+Developer;Kotlin+Experimenter;Java+enthusiast;)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=0993F7&vCenter=true&width=435&height=24&lines=Desktop+%26+Android+Developer;Kotlin+Experimenter;Java+Enthusiast;)](https://git.io/typing-svg)  
 <img src="https://img.icons8.com/color/256/kotlin.png" alt="drawing" width="20"/> I am currently developing in Kotlin, but for a long time I worked with Java <img src="https://icons.iconarchive.com/icons/tatice/cristal-intense/256/Java-icon.png" alt="drawing" width="20"/>. I'm just as good with C# and Xamarin.  
 Well versed in C++ and familiar with Python and JavaScript.  
 
