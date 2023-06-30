@@ -11,7 +11,9 @@ A little bit about me:
 - 🏐 Advanced volleyball player.
 - 🎸 Dependent on music.
 
-I can always be contacted via email, telegram or vk.
+[![VK Badge](https://img.shields.io/badge/-VK-0077ff?style=for-the-badge&logo=VK&logoColor=white)](https://vk.com/nenavizhu.vasvsekh)
+[![Telegram Badge](https://img.shields.io/badge/-TELEGRAM-229ED9?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/larionowmeow)
+[![LinkedIn Badge](https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mihail-larionov-6ab785281/)
 
 <!--
 **Mihail-Larionow/Mihail-Larionow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
