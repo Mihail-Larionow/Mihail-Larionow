@@ -6,7 +6,7 @@ Well versed in C++ and familiar with Python and JavaScript.
 
 A little bit about me:
 - 🏡 At the moment I live in St. Petersburg, Russia.
-- 🎓 I am a diligent 3rd year student at ITMO University.
+- 🎓 I am a diligent 4th year student at ITMO University.
 - 🗣️ My level of English is C1. I have good practice communicating with native speakers.
 - 🏐 Advanced volleyball player.
 - 🎸 Dependent on music.
